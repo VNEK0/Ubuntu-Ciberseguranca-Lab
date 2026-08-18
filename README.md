@@ -1,4 +1,4 @@
-Ubuntu Hardening Lab
+Ubuntu cibersegurança Lab
 
 Laboratório prático de hardening em Ubuntu Linux, desenvolvido para aplicar conceitos básicos de segurança de sistemas e administração Linux.
  Objetivo
